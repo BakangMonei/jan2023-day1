@@ -1,0 +1,24 @@
+/* CSS */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header h1 {
+    color: #0066c0;
+}
+
+#featured-movies {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.movie-poster {
+    text-align: center;
+    width: 30%;
+}
+
+.movie-poster img {
+    width: 100%;
+}
